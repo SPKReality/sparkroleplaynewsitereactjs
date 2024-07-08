@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/sparkroleplaynewsitereactjs/static/css/main.039bf95e.css",
-    "main.js": "/sparkroleplaynewsitereactjs/static/js/main.a683b266.js",
-    "static/media/loadingscreen.png": "/sparkroleplaynewsitereactjs/static/media/loadingscreen.bd0d99e4f02e348ecea7.png",
-    "static/media/Transparent Logo.png": "/sparkroleplaynewsitereactjs/static/media/Transparent Logo.108ec1309c009306c3e6.png",
-    "static/media/Hello.gif": "/sparkroleplaynewsitereactjs/static/media/Hello.d93720933c608f6178fb.gif",
-    "static/media/tiktok-svgrepo-com.svg": "/sparkroleplaynewsitereactjs/static/media/tiktok-svgrepo-com.5f694f8c977f90e28f92d83d9c81a29a.svg",
-    "static/media/discord-svgrepo-com.svg": "/sparkroleplaynewsitereactjs/static/media/discord-svgrepo-com.fc1eb9c8546514626cb8ec5f3bb34fea.svg",
-    "index.html": "/sparkroleplaynewsitereactjs/index.html",
-    "static/media/kickstarter-kick-starter-crowdfunding-svgrepo-com.svg": "/sparkroleplaynewsitereactjs/static/media/kickstarter-kick-starter-crowdfunding-svgrepo-com.6a2346c2c6fbc23955cfbda0ef8651af.svg",
-    "static/media/instagram.svg": "/sparkroleplaynewsitereactjs/static/media/instagram.e9d6b5424508db6397a027a4e0fe0dd0.svg",
-    "static/media/youtube-color-svgrepo-com.svg": "/sparkroleplaynewsitereactjs/static/media/youtube-color-svgrepo-com.dd47c6bcb87c07f7473d9f8c7764e682.svg",
-    "static/media/github.svg": "/sparkroleplaynewsitereactjs/static/media/github.d344c0fc70ddfb6de253ddc40adcb086.svg",
-    "static/media/email-icon.svg": "/sparkroleplaynewsitereactjs/static/media/email-icon.a83578f914460e952501546655b76165.svg",
-    "static/media/twitch-svgrepo-com.svg": "/sparkroleplaynewsitereactjs/static/media/twitch-svgrepo-com.092a0edafa420da4c956f65aacf654e3.svg",
-    "main.039bf95e.css.map": "/sparkroleplaynewsitereactjs/static/css/main.039bf95e.css.map",
-    "main.a683b266.js.map": "/sparkroleplaynewsitereactjs/static/js/main.a683b266.js.map"
+    "main.css": "/static/css/main.039bf95e.css",
+    "main.js": "/static/js/main.045541c7.js",
+    "static/media/loadingscreen.png": "/static/media/loadingscreen.bd0d99e4f02e348ecea7.png",
+    "static/media/Transparent Logo.png": "/static/media/Transparent Logo.108ec1309c009306c3e6.png",
+    "static/media/Hello.gif": "/static/media/Hello.d93720933c608f6178fb.gif",
+    "static/media/tiktok-svgrepo-com.svg": "/static/media/tiktok-svgrepo-com.5f694f8c977f90e28f92d83d9c81a29a.svg",
+    "static/media/discord-svgrepo-com.svg": "/static/media/discord-svgrepo-com.fc1eb9c8546514626cb8ec5f3bb34fea.svg",
+    "index.html": "/index.html",
+    "static/media/kickstarter-kick-starter-crowdfunding-svgrepo-com.svg": "/static/media/kickstarter-kick-starter-crowdfunding-svgrepo-com.6a2346c2c6fbc23955cfbda0ef8651af.svg",
+    "static/media/instagram.svg": "/static/media/instagram.e9d6b5424508db6397a027a4e0fe0dd0.svg",
+    "static/media/youtube-color-svgrepo-com.svg": "/static/media/youtube-color-svgrepo-com.dd47c6bcb87c07f7473d9f8c7764e682.svg",
+    "static/media/github.svg": "/static/media/github.d344c0fc70ddfb6de253ddc40adcb086.svg",
+    "static/media/email-icon.svg": "/static/media/email-icon.a83578f914460e952501546655b76165.svg",
+    "static/media/twitch-svgrepo-com.svg": "/static/media/twitch-svgrepo-com.092a0edafa420da4c956f65aacf654e3.svg",
+    "main.039bf95e.css.map": "/static/css/main.039bf95e.css.map",
+    "main.045541c7.js.map": "/static/js/main.045541c7.js.map"
   },
   "entrypoints": [
     "static/css/main.039bf95e.css",
-    "static/js/main.a683b266.js"
+    "static/js/main.045541c7.js"
   ]
 }
