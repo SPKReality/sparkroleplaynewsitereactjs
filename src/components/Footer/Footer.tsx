@@ -1,10 +1,10 @@
 import { Container } from './styles'
-import githubIcon from '../../assets/github.svg'
 import instagramIcon from '../../assets/instagram.svg'
 import tiktoklogo from '../../assets/tiktok-svgrepo-com.svg'
 import youtubeLogo from '../../assets/youtube-color-svgrepo-com.svg'
 import kicklogo from '../../assets/kickstarter-kick-starter-crowdfunding-svgrepo-com.svg'
 import twitch from '../../assets/twitch-svgrepo-com.svg'
+import github from '../../assets/github.svg'
 // import discordIcon from '../../assets/discord.png'
 
 export function Footer() {
@@ -25,7 +25,7 @@ export function Footer() {
           target="_blank"
           rel="noreferrer"
         >
-          <img src={githubIcon} alt="GitHub" />
+          <img src={github} alt="GitHub" />
         </a>
         <a
           href="https://www.instagram.com/sparkrpuk/"
